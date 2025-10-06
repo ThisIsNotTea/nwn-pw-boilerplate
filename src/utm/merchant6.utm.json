@@ -1,0 +1,569 @@
+{
+  "__data_type": "UTM ",
+  "BlackMarket": {
+    "type": "byte",
+    "value": 0
+  },
+  "BM_MarkDown": {
+    "type": "int",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "ID": {
+    "type": "byte",
+    "value": 5
+  },
+  "IdentifyPrice": {
+    "type": "int",
+    "value": 50
+  },
+  "LocName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Eltoora - Cloaktower"
+    }
+  },
+  "MarkDown": {
+    "type": "int",
+    "value": 15
+  },
+  "MarkUp": {
+    "type": "int",
+    "value": 160
+  },
+  "MaxBuyPrice": {
+    "type": "int",
+    "value": 4000
+  },
+  "OnOpenStore": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnStoreClosed": {
+    "type": "resref",
+    "value": ""
+  },
+  "ResRef": {
+    "type": "resref",
+    "value": "merchant6"
+  },
+  "StoreGold": {
+    "type": "int",
+    "value": -1
+  },
+  "StoreList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ItemList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor52"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor51"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor50"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 3,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor47"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 4,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor55"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 5,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel90"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 6,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel88"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 7,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel83"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 8,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel73"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 9,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor105"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 10,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel1"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 4
+              }
+            },
+            {
+              "__struct_id": 11,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor121"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 4
+              }
+            },
+            {
+              "__struct_id": 12,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "armor120"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 5
+              }
+            }
+          ]
+        }
+      },
+      {
+        "__struct_id": 4,
+        "ItemList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "weapon145"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "__struct_id": 2,
+        "ItemList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Infinite": {
+                "type": "byte",
+                "value": 1
+              },
+              "InventoryRes": {
+                "type": "resref",
+                "value": "x2_it_cfm_bscrl"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "Infinite": {
+                "type": "byte",
+                "value": 1
+              },
+              "InventoryRes": {
+                "type": "resref",
+                "value": "misc150"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 1
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "__struct_id": 3,
+        "ItemList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel150"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel157"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 1
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel116"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 3,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel125"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 3
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 4,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel158"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 5,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel151"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 5
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 6,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel136"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 7,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "apparel137"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 7
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 8,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "weapon66"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 9,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "weapon64"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 9
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 10,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "weapon61"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 1
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 1
+              }
+            },
+            {
+              "__struct_id": 11,
+              "Infinite": {
+                "type": "byte",
+                "value": 1
+              },
+              "InventoryRes": {
+                "type": "resref",
+                "value": "x2_it_cfm_wand"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "__struct_id": 1
+      }
+    ]
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "mer_eltoora"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "target_pawnshop"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "mer_olgerd"
+        }
+      }
+    ]
+  },
+  "WillNotBuy": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 97869,
+        "BaseItem": {
+          "type": "int",
+          "value": 64
+        }
+      }
+    ]
+  },
+  "WillOnlyBuy": {
+    "type": "list",
+    "value": []
+  }
+}

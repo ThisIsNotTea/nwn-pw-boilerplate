@@ -1,0 +1,23 @@
+# Copy this file and rename it to docker-compose.yml or you won't be able to start the server!
+# Note: Don't make changes to this file because it's version controlled
+
+version: "3.3"
+
+services:
+  tfn-server:
+    image: nwnxee/unified:2f732e7
+    tty: true
+    stdin_open: true
+    env_file: ${PWD-.}/config/common.env
+    environment:
+    - NWN_PUBLICSERVER=1
+    - NWN_SERVERNAME="The Frozen North 2 Electric Boogaloo"
+    - NWN_PORT=5134
+    - NWNX_SERVERLOGREDIRECTOR_LOG_LEVEL=6
+    - NWNX_PROFILER_SKIP=y
+    - NWNX_METRICS_INFLUXDB_SKIP=y
+    ports:
+    - '5134:5134/udp'
+    volumes:
+    - ${PWD-.}/logs:/nwn/run/logs.0
+    - ${PWD-.}/:/nwn/home

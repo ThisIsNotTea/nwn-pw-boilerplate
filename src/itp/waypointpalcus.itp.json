@@ -1,0 +1,228 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "LargeWeb"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "largeweb"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PetrifiedBadger"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "petrifiedbadger"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PetrifiedBear"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "petrifiedbear"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PetrifiedDeer"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "petrifieddeer"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PetrifiedDireWolf"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "petrifieddirewol"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PetrifiedSmuggler"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "petrifiedsmuggle"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SmallWeb"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "smallweb"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "_safe_rest"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "_safe_rest"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "BootOnRefreshLoginPoint"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bootonrefresh_wp"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "TreasureMapAvoid15m"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "treasuremapavoid"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP_AMBIENT"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "_wp_ambient"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP_EVENT"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "_wp_event"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6798
+        }
+      }
+    ]
+  }
+}

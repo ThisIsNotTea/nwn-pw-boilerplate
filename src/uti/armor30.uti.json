@@ -1,0 +1,150 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 14
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 13652
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 12863,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Legend holds that this powerful item was created by the god Cyric during the Time of Troubles, giving him one more powerful weapon to use against his foes in battle. For, unlike most shields, the Shield of Chaos truly is a weapon. Whenever its wearer is hit during combat, the shield can retaliate with any number of powerful and disabling effects, ranging from blindness to paralysis to blasts of fire and lightning that will engulf the unfortunate opponent."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 12888,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Chaos Shield"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 32
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 10
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 255
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 1
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 26
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 82
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 130
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "sse"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "armor30"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 32
+  }
+}

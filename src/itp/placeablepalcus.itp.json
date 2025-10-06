@@ -1,0 +1,1715 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 7
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Face down corpse"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "corpse001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Face up corpse"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "corpse002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Face up corpse naked"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "corpse003"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Face up corpse naked 2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "corpse004"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Head, Bear"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pileskulls006"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Head, Deer"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pileskulls005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Head, Dire Boar"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pileskulls004"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Head, Jaguar"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pileskulls003"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Head, Ox"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pileskulls001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Head, Wolf"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pileskulls002"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6783
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 22
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 111663
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Door Lever"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pla_lever"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Floor Lever"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pla_tagdoorlever"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Gunpowder Keg"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "plx_gunpowderkeg"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Plate"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ud_puzzle_plate"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Strange Mechanism"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ud_obelisk_lever"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6782
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 8
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Animated Ballista"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "plx_ballista"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Armor on display"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "armordisplay"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6784
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Cocoon Static"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "spdcocoon001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Glyph Generator"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "layenne_glyphgen"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Item Alterator"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item_alterator"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Pedestal"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "layenne_ped_plc"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Pedestal of Cyric"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pedestal_cyric"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Phylactery"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "hh_phylactery"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1592
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 10
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Table, long"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tfn_tablelong"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6785
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 11
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Crevice"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pla_crevice"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Ship"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ship1"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6786
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 12
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Road Sign"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_sign"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6787
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 14
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9122
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 15
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": ""
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "_invisible"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Book"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "invisiblebook"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Hidden Lever"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "hidden_lever"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Invisible Object"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "invisibleobject"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9128
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_campfire"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5700
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Loot Bag"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_loot_container"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Personal Loot"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_loot_personal"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Treasure Map Loot"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treasuremap_loot"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Credits"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "credits"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PC Storage"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_pc_storage"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Treasure Container"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_treas_container"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "storage5"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5650
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "storage2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "storage6"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5654
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Footlocker"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "storage3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gold Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gold_storage3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gold Pile"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gold_storage2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gold Sack"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gold_storage1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Settings"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "house_settings"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Small Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "storage1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strongbox"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "storage4"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Climb"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "invisibleclimb"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sit"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "invisibleseatobj"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Acid Cloud"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_cloud_acid"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Acrid Remains"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_acid"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Corpse"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_gerrolwife"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dead Apprentice"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "meldanen_apprent"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Electric Remains"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_electri"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Electric Smoke"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_cloud_electri"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fire Remains Large"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_fire4"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fire Remains Medium"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_fire3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fire Remains Small"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_fire2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fire Remains Tiny"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_fire1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Frozen Corpse"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_dth_cold"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Icy Remains"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_remains_cold"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "PC Bloodstain"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_pc_bloodstain"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Power Source"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "maker3pwrsrc"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "_scorch_mark"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14754
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Spellbook of Inescapable Mazes"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "meldanen_book"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 13
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6788
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 16
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 17
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Flat Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "plx_ppsmallchest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Heavy Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "plx_ppchest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Studded Footlocker"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "plx_ppfootlocker"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 62485
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 19
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Bones"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_bones_h"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_chest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_cocoon_h"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14729
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dark Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_drowchest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Huge Treasure Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_chst_h_lrg"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sarcophagus"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarco_sw_h"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strongbox"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_strongbox"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Tomb"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarcophag"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Treasure Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_treasure_h"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5836
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 21
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_barrel"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5691
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Bones"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_bones_low"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_bookpiles"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5698
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_bookshelf"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14576
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Box"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_box"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_cabinet"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5650
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_cocoon"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14729
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_crate"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14578
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dark Barrel"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_darkbarrel"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dark Box"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_darkbox"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dark Crate"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_darkcrate"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_desk"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5655
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Drawer"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_drawer"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Gold Pile"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "3_treas_goldpile"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Large Box"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_boxlg"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Large Crate"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_cratelg"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "3_treas_shields"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 111154
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_rack"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5748
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67585
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 20
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_armoire"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14549
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Bones"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_bones_med"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Casket"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarco_med"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Coffin"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_coffin"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Drow Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_drow_low"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Footlocker"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_footlocker"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Small Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_smallchest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Treasure Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_treasure"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 53151
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 18
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ancient Casket"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_artifact2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ancient Coffin"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_artifact1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Ancient Sarcophagus"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_artifact4"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Androd's Cabinet"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_androd"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Bookcase"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_tome_reson"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Bookshelf"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_tome_fire"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Hodge's Strongbox"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_hodge"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Imp's Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_strongboxw"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Large Pedestal"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "layenne_cent_ped"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Pile of Tomes"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_tome_death"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Rumbottom Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_rumbottom"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sarcophagus of Duty"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarco_duty"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sarcophagus of Honor"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarco_hono"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sarcophagus of Misery"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarco_mis"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sarcophagus of Pain"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "treas_sarco_pain"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67132
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 66490
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "portalblue"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5670
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statue of Mask's Shield"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "plx_baramstonest"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Statue of Mask's Speed"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "plx_baramhastest"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6781
+        }
+      }
+    ]
+  }
+}

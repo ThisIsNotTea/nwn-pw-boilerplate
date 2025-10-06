@@ -1,0 +1,266 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 17
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cloth1Color": {
+    "type": "byte",
+    "value": 45
+  },
+  "Cloth2Color": {
+    "type": "byte",
+    "value": 45
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10076
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 40680,
+    "type": "cexolocstring",
+    "value": {
+      "0": "This helm only takes its true form when the user first perceives its true nature.  Made of blackened silver and steel, a newly created helm of darkness is set with thirty-six black opals along its lower edge and a great black sapphire in the front.\n\nThe helm is also capable of absorbing significant amounts of cold damage. The wearer is also resistant to death magic and fear effects and can see through any form of darkness as though it were daylight.\n\nSuch helms are rumored to slowly corrupt their wearers to bend to Shar's whim, so that ultimately the Dark Goddess gains a powerful follower by greatly warding the victim in what her clerics often refer to as the subject's \"infancy.\""
+    }
+  },
+  "Description": {
+    "id": 40679,
+    "type": "cexolocstring",
+    "value": {
+      "0": "This ordinary-looking helmet appears slightly worn and battered."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "Leather1Color": {
+    "type": "byte",
+    "value": 44
+  },
+  "Leather2Color": {
+    "type": "byte",
+    "value": 45
+  },
+  "LocalizedName": {
+    "id": 40678,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Metal1Color": {
+    "type": "byte",
+    "value": 7
+  },
+  "Metal2Color": {
+    "type": "byte",
+    "value": 7
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 28
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 9
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 7
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 23
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 7
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 16
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 32
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 53
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 40
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 40
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 8
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 0
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 62
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 5
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "X0_ARMHE017"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "armor93"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 28
+  }
+}

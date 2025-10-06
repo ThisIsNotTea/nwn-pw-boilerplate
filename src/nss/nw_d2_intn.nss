@@ -1,0 +1,19 @@
+//::///////////////////////////////////////////////
+//:: Check Intelligence Normal
+//:: NW_D2_INTN
+//:: Copyright (c) 2001 Bioware Corp.
+//:://////////////////////////////////////////////
+/*
+    Check if the character has normal intelligence.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Preston Watamaniuk
+//:: Created On: Sept 18, 2001
+//:://////////////////////////////////////////////
+
+#include "nw_i0_plot"
+
+int StartingConditional()
+{
+    return TRUE;
+}

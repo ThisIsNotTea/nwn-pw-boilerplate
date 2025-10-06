@@ -1,0 +1,150 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 59
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 17663
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 14435,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Originally the tooth of a wyvern carved into a shuriken, this weapon's origins are lost to the many times it has changed hands. Between its retention of the wyvern's poisonous bite and the fact it returns to the one who threw it, this item has been highly coveted by those who seek to covertly eliminate others. Needless to say, many in this profession are only too happy to employ their skills to try to obtain it."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This strange shuriken seems to be made from tooth, bone, claw, or a similar substance."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 14434,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Star of the Wyvern"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 31
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 79
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 6
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 24
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 0
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 10
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 1
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 48
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 19
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "NW_WTHMSH004"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "weapon109"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 31
+  }
+}

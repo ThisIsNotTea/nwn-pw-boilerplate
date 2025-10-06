@@ -1,0 +1,119 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 19
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 577
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 12986,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Frustrated with non-elven adventurers who couldn't keep up with him on his underground adventures, the elven mage Liadon created a pendant that imbued the adventurer with heightened reflexes. When he finally retired, Liadon asked that the amulet be kept by elves and only given to trusted adventurers who proved themselves to be true friends of the elven people."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 12985,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Pendant of the Elf"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 12
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 54
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 41
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 3
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "linu_reward1"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "linu_reward1"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 12
+  }
+}

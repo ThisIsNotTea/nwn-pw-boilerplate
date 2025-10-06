@@ -1,0 +1,150 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 52
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 8664
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 48935,
+    "type": "cexolocstring",
+    "value": {
+      "0": "The grand mage Batalista intended this item to aid in his travels in the Plane of Fire, and it is said he repeatedly summoned a salamander from that realm to aid in the construction. Salamanders not being known for their patience, it is likely he should not have pestered his \"instructor\" quite so much. The finger bearing the finished ring was indeed untouched by the inferno that claimed his tower. Had that finger still been attached, Batalista himself might have fared better. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 48934,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Batalista's Passport"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 28
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 22
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 7
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 23
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 10
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 5
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 20
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 10
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "X0_IT_MRING009"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "apparel154"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 28
+  }
+}

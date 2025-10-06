@@ -1,0 +1,150 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 57
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 14778
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 12863,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Darson the master smith constructed this mighty shield out of the bones and scales of an ancient wyrm. While Darson, never afraid of bragging, claims he slew the beast himself, few believe it. Most likely he came upon the corpse of the great beast and salvaged what he could. Whatever the truth may be, the protections on this shield are formidable enough to please the bravest of knights."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocalizedName": {
+    "id": 12901,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Bulwark of the Great Dragon"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 23
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 12
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 2
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 255
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 1
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 7
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 2
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 23
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 10
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "ts"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "armor22"
+  },
+  "xModelPart1": {
+    "type": "word",
+    "value": 23
+  }
+}
