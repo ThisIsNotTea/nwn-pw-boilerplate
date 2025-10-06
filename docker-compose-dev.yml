@@ -6,7 +6,7 @@ services:
     env_file: ${PWD-.}/config/common.env
     environment:
     - NWN_PUBLICSERVER=0
-    - NWN_SERVERNAME="The Frozen North DEV"
+    - NWN_SERVERNAME="nwn Boilerplate Dev"
     - NWN_PORT=5134
     - NWNX_SERVERLOGREDIRECTOR_LOG_LEVEL=6
     - NWNX_PROFILER_SKIP=y

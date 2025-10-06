@@ -1,6 +1,10 @@
 @echo off
-IF NOT EXIST .build\modules\TFN.mod (
-    echo .build\modules\TFN.mod does not exist. Please run win_nasher_install.bat first to install the module
+FOR /F "tokens=1,* delims==" %%A IN ('findstr /R "^file=" nasher.cfg') DO (
+    SET "MODULE_FILE=%%B"
+)
+
+IF NOT EXIST ".build\modules\%MODULE_FILE%" (
+    echo .build\modules\%MODULE_FILE% does not exist. Please run win_nasher_install.bat first to install the module
     pause
     exit /b 1
 )

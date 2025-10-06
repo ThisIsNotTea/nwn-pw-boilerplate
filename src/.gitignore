@@ -1,0 +1,35 @@
+# Ignore build folder
+.build/
+.build/*
+
+.nasher/
+.nasher/*
+
+# Don't add real passwords to git
+config/influxdb.env
+config/grafana.env
+grafana-provisioning/datasources/nwn.yml
+
+# This file should be ignored always
+settings.tml
+
+# Whitelist only server template files
+server/*
+!docker-compose-template.yml
+!docker-compose-with-analytics-template.yml
+
+# Never commit these file types
+*.mod
+*.ncs
+*.csv
+
+
+cryptographic_secret
+database/*
+.vs/*
+logs/*
+modules/*
+nwsync/*
+*.ini
+servervault/*
+override/*
